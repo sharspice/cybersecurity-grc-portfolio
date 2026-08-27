@@ -6,7 +6,7 @@ Welcome to my security governance and identity architecture portfolio. This repo
 
 * **[01. Enterprise Risk Register (NIST CSF 2.0)](./01-GRC-Risk-Management/)**
   * Catalogs critical organizational threat scenarios, quantitative likelihood/impact scoring, and compensating control mapping to NIST SP 800-53.
-* **[02. Identity Governance & RBAC Matrix](./02-IAM-Access-Governance/)** *(In Progress)*
+* **[02. Identity Governance & RBAC Matrix](./02-IAM-Access-Governance/)**
   * Defines Role-Based Access Control (RBAC), Separation of Duties (SoD), and Joiner-Mover-Leaver (JML) lifecycle workflows.
 
   ### Certifications & Competencies
